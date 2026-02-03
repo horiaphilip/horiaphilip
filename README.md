@@ -13,33 +13,23 @@ Software Engineering & Computer Science · Java · Python · C# · C++
 
 ## 🛠️ Skills
 
-Java · Python · C# · C++ · JavaScript  
-Spring / .NET · React · SQL · Machine Learning  
-Reinforcement Learning · SAT Solving · Automation (RPA)  
-Object-Oriented Design · Clean Architecture
+**Languages:** Java · Python · C# · C++ · JavaScript · TypeScript  
+**Backend:** Spring Boot · .NET · Node.js · REST APIs · JWT  
+**Frontend:** Angular · React · HTML/CSS  
+**Databases:** PostgreSQL · SQL · JPA/Hibernate  
+**Other:** Machine Learning · Reinforcement Learning · SAT Solving · Docker · Git
 
 ---
 
 ## 🌟 Featured Projects
 
-### SAT-Visualizer  
-Repository: https://github.com/horiaphilip/SAT-Visualizer  
+### CampusConnect  
+Repository: https://github.com/horiaphilip/CampusConnect  
 
-Python · PySAT · CNF · Algorithms  
+C# · .NET 9 · React · Clean Architecture · JWT  
 
-Interactive educational application that visualizes classical complexity problems  
-(Graph Isomorphism, Clique, Sudoku, N-Queens Completion) and solves them via SAT reductions using modern SAT solvers.  
-Designed as a learning tool to demonstrate how the same technique (SAT) applies across multiple NP problems.
-
----
-
-### Reinforcement Learning Project  
-Repository: https://github.com/horiaphilip/Reinforcement_Learning_Project  
-
-Python · Reinforcement Learning · Q-Learning · DQN · PPO  
-
-Experimental evaluation of tabular and deep reinforcement learning algorithms on custom FrozenLake environments,  
-including static, dynamic, and multi-agent settings, with detailed analysis of convergence and stability.
+Full-stack campus management system featuring authentication, AI integration, and an interactive campus map,  
+built using modern .NET practices and clean architectural principles.
 
 ---
 
@@ -53,13 +43,33 @@ Built during an SAP internship, integrating frontend, backend services, and mach
 
 ---
 
-### CampusConnect  
-Repository: https://github.com/horiaphilip/CampusConnect  
+### AgileHub
+Repository: https://github.com/horiaphilip/AgileHub
 
-C# · .NET 9 · React · Clean Architecture · JWT  
+Java · Spring Boot · Angular · PostgreSQL · TypeScript
 
-Full-stack campus management system featuring authentication, AI integration, and an interactive campus map,  
-built using modern .NET practices and clean architectural principles.
+Full-stack agile project management platform featuring Kanban boards, sprint planning, and task management.  
+Built with Spring Boot 3.4, Angular 17+, JWT authentication, and a modern responsive UI.
+
+---
+
+### SAT-Visualizer  
+Repository: https://github.com/horiaphilip/SAT-Visualizer  
+
+Python · PySAT · CNF · Algorithms  
+
+Interactive educational application that visualizes classical complexity problems  
+(Graph Isomorphism, Clique, Sudoku, N-Queens Completion) and solves them via SAT reductions using modern SAT solvers.
+
+---
+
+### Reinforcement Learning Project  
+Repository: https://github.com/horiaphilip/Reinforcement_Learning_Project  
+
+Python · Reinforcement Learning · Q-Learning · DQN · PPO  
+
+Experimental evaluation of tabular and deep reinforcement learning algorithms on custom FrozenLake environments,  
+including static, dynamic, and multi-agent settings, with detailed analysis of convergence and stability.
 
 ---
 
@@ -71,31 +81,19 @@ Repository: https://github.com/mariaz22/Can-LLMs-predict-human-neural-activation
 Python · Machine Learning · NLP · Research  
 
 Collaborative research project investigating whether large language models can predict patterns of human neural activation.  
-I contributed as part of a team, working on experimentation, data analysis, and evaluation of model performance.
+Contributed to experimentation, data analysis, and evaluation of model performance.
 
 ---
 
 ## 💼 Other Projects
 
-**Job-Scraper-RPA**  
-UiPath · Automation · AI  
-Automated job scraping and analysis system built with UiPath REFramework, delivering processed results via email notifications.
-
-**Flight Planning Simulation App**  
-PHP · Laravel · SQL  
-Web application for managing flights, clients, and reservations with role-based access.
-
-**HealthcareManagement_DB**  
-PL/SQL · Databases  
-Database-focused project implementing procedures, triggers, and data validation.
-
-**OOP_RealEstate / OOP_Medical**  
-C++ · OOP  
-Object-oriented systems modeling real-world domains using inheritance, polymorphism, and encapsulation.
-
-**Website – Le Charme Français**  
-HTML · CSS · JavaScript  
-Interactive website built using core web technologies.
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Job-Scraper-RPA** | UiPath · AI | Automated job scraping with email notifications |
+| **Flight Planning App** | PHP · Laravel · SQL | Flight and reservation management system |
+| **HealthcareManagement_DB** | PL/SQL | Database procedures, triggers, and validation |
+| **OOP_RealEstate / OOP_Medical** | C++ | Object-oriented domain modeling |
+| **Le Charme Français** | HTML · CSS · JS | Interactive website |
 
 ---
 
@@ -103,6 +101,6 @@ Interactive website built using core web technologies.
 
 Open to internships and collaborative projects  
 
-- GitHub: https://github.com/horiaphilip  
-- LinkedIn: https://www.linkedin.com/in/horia-filip-radulescu-52a394334/  
-- Email: horiafr@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-horiaphilip-181717?style=flat&logo=github)](https://github.com/horiaphilip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Horia%20Rădulescu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/horia-filip-radulescu-52a394334/)
+[![Email](https://img.shields.io/badge/Email-horiafr%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:horiafr@gmail.com)
